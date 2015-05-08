@@ -1,0 +1,14 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Outstanding.ttf);
+}
+
+h1{
+	font-size: 1em;
+	font-family: myFirstFont;
+}
+
+h3{
+	font-size: 0.5em;
+	font-family: myFirstFont;
+}
